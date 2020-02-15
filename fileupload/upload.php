@@ -1,3 +1,7 @@
+<html>
+    <link rel='icon' href='../favicon.ico' type='image/x-icon'/ >
+    <link rel="stylesheet" href="../style.css">
+</html>
 <?php
 $target_dir = "uploads/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
